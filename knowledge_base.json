@@ -39,6 +39,14 @@
     {
       "question": "hello",
       "answer": "Hey there!!"
+    },
+    {
+      "question": "Jak si\u0119 nazywasz ?",
+      "answer": "Jestem ChatBot"
+    },
+    {
+      "question": "jak masz na imi\u0119?",
+      "answer": "Jestem Chatbot"
     }
   ]
 }
